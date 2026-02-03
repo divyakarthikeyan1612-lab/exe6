@@ -8,7 +8,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. The required Python libraries are imported and the placement dataset is loaded, after which the output column status is converted into numerical values.
+1.The required Python libraries are imported and the placement dataset is loaded, after which the output column status is converted into numerical values.
 
 2.The input features are selected and normalized using Standard Scaler, and a bias term is added to the dataset.
 
